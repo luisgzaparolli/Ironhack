@@ -12,6 +12,8 @@ Using pen and paper, design a database to meet the minimal requirements of your 
 
 1. **Cars** - e.g. the vehicle identification number (VIN), manufacturer, model, year, and color of the cars in your company's inventory.
 
+
+
 1. **Customers** - e.g. the customer ID, name, phone number, email, address, city, state/province, country, and zip/postal code of the customers.
 
 1. **Salespersons** - e.g. staff ID, name, and the store at your company.
@@ -26,7 +28,7 @@ Before solving this challenge, review your lesson about database structure and d
 
 * **What are the relations between these entities? Which relations are one-to-one vs one-to-many vs many-to-many?**
 
-Use pen and paper to create the design, take a picture with your phone and send the image to yourself. If you use software to create the database diagram, export in the image format (JPG or PNG). Either way, the image will be submitted as one of the deliverables.
+Use pen and paper to create the design, take a picture with your phone and send the image to yourself. If you use  software to create the database diagram, export in the image format (JPG or PNG). Either way, the image will be submitted as one of the deliverables.
 
 ## Challenge 2 - Create the Database and Tables
 
