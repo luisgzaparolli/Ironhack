@@ -18,5 +18,4 @@ def process(client, params):
 if __name__ == '__main__': 
 	params = Params()
 	client = Client(params)
-	logging.basicConfig(level=logging.DEBUG)
 	process(client, params)
