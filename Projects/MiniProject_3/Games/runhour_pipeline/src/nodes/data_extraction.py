@@ -52,38 +52,41 @@ def update(client, params):
 	stream_channel = pd.DataFrame()
 
 	for i in range(10):
-		url_twitch2 = ('https://api.twitch.tv/kraken/games/top')
-		response = requests.get(url_twitch2, headers=params.headers2)
-		games = response.json()
-		top10games = (games['top'][i]['game']['name'])
-		url_query = 'https://api.twitch.tv/kraken/search/streams?query=' + top10games + '&Limit=100'
+		try:
+			url_twitch2 = ('https://api.twitch.tv/kraken/games/top')
+			response = requests.get(url_twitch2, headers=params.headers2)
+			games = response.json()
+			top10games = (games['top'][i]['game']['name'])
+			url_query = 'https://api.twitch.tv/kraken/search/streams?query=' + top10games + '&Limit=100'
 
-		response = requests.get(url_query, headers=params.headers3)
-		streams = response.json()['streams']
+			response = requests.get(url_query, headers=params.headers3)
+			streams = response.json()['streams']
 
-		for i in range(10):
-			try:
-				today = datetime.date.today()
-				hour_list = datetime.datetime.now().strftime("%H:%M:%S")
-				stream_id = streams[i]['channel']['_id']
-				stream_name = streams[i]['channel']['name']
-				stream_game = streams[i]['game']
-				stream_viewers = int(streams[i]['viewers'])
-				stream_lang = streams[i]['channel']['broadcaster_language']
-				stream_followers = int(streams[i]['channel']['followers'])
-				stream_views = int(streams[i]['channel']['views'])
-				mini_df = pd.DataFrame({'date': [today],
-										'hour': [hour_list],
-										'streamer_id': [stream_id],
-										'streamer_name': [stream_name],
-										'game_name': [stream_game],
-										'viewers': [stream_viewers],
-										'language': [stream_lang],
-										'followers': [stream_followers],
-										'views': [stream_views]})
-				stream_channel = pd.concat([stream_channel, mini_df])
-			except:
-				pass
+			for i in range(10):
+				try:
+					today = datetime.date.today()
+					hour_list = datetime.datetime.now().strftime("%H:%M:%S")
+					stream_id = streams[i]['channel']['_id']
+					stream_name = streams[i]['channel']['name']
+					stream_game = streams[i]['game']
+					stream_viewers = int(streams[i]['viewers'])
+					stream_lang = streams[i]['channel']['broadcaster_language']
+					stream_followers = int(streams[i]['channel']['followers'])
+					stream_views = int(streams[i]['channel']['views'])
+					mini_df = pd.DataFrame({'date': [today],
+											'hour': [hour_list],
+											'streamer_id': [stream_id],
+											'streamer_name': [stream_name],
+											'game_name': [stream_game],
+											'viewers': [stream_viewers],
+											'language': [stream_lang],
+											'followers': [stream_followers],
+											'views': [stream_views]})
+					stream_channel = pd.concat([stream_channel, mini_df])
+				except:
+					pass
+		except:
+			pass
 	stream_channel = stream_channel.reset_index(drop=True)
 
 	## STEAM - Players Online
