@@ -7,7 +7,7 @@ class Params:
 	file_url = 'https://store.steampowered.com/search/?filter=topsellers'
 
 	user = 'postgres'
-	pwd = '1fYS.9:f'
+	pwd = 'admin'
 	host = 'localhost'
 	database = 'games'
 
