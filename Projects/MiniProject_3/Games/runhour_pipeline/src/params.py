@@ -10,7 +10,7 @@ class Params:
 	headers3 = {'Client-ID': 'h8zvs5dtl6ukn16cvf8s2ade7xw6km', 'Accept': 'application/vnd.twitchtv.v5+json'}
 
 	user = 'postgres'
-	pwd = 'admin'
+	pwd = '1fYS.9:f'
 	host = 'localhost'
 	database = 'games'
 
