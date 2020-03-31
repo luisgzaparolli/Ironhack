@@ -10,13 +10,11 @@ import sqlalchemy as db
 
 logger = logging.getLogger('data_extraction.py')
 
-
 def update_table(title: str, df):
-    engine = db.create_engine('postgresql://postgres:1fYS.9:f@localhost/games')
+    engine = db.create_engine('postgresql://postgres:admin@localhost/games')
     conn = engine.connect()
     df.to_sql(title, con=conn, if_exists='append', index = False)
     conn.close()
-
 
 def update(client, params):
 	logger.info('Updating extraction node.')
