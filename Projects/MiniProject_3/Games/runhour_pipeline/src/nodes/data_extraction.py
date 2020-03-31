@@ -106,11 +106,9 @@ def update(client, params):
 	headers = ['date_list', 'hour_list', 'game_name', 'daily_peak', 'players_online']
 	players_online = pd.DataFrame(np.array(data), columns=headers)
 
-    ## DATAFRAME
 
 	logger.info(f'Reading to dataframe.')
 
-	mostselled_games = pd.DataFrame(np.array(data), columns=headers)
 
 	#logger.debug('Dataframe size: ', df.shape)
 	#logger.debug('The resulting dataframe: ', df.head())
