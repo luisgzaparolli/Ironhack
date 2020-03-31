@@ -21,8 +21,6 @@ def update_table(title: str, df):
 def update(client, params):
 	logger.info('Updating extraction node.')
 
-	file = params.file_url
-
 	logger.info(f'Accessing URL {file}.')
 	response = requests.get(file)
 	#logger.debug('Status code: ', response.status_code)
