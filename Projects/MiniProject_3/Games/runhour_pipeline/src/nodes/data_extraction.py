@@ -21,11 +21,6 @@ def update_table(title: str, df):
 def update(client, params):
 	logger.info('Updating extraction node.')
 
-	logger.info(f'Accessing URL {file}.')
-	response = requests.get(file)
-	#logger.debug('Status code: ', response.status_code)
-
-
 	## TWITCH - Games Viewers and Channels
 
 
