@@ -1,0 +1,435 @@
+2020-03-24 15:07:00,759 requirements.py INFO Accessing URL https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports.
+2020-03-24 15:07:01,473 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,473 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_01_22_2020.csv
+2020-03-24 15:07:01,473 data_extraction.py INFO Node done for 01_22_2020
+2020-03-24 15:07:01,473 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,473 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_01_22_2020.csv
+2020-03-24 15:07:01,486 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,512 data_storage.py INFO Table corona_01_22_2020 has been found in the database.
+2020-03-24 15:07:01,512 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,512 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_01_23_2020.csv
+2020-03-24 15:07:01,512 data_extraction.py INFO Node done for 01_23_2020
+2020-03-24 15:07:01,512 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,512 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_01_23_2020.csv
+2020-03-24 15:07:01,521 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,524 data_storage.py INFO Table corona_01_23_2020 has been found in the database.
+2020-03-24 15:07:01,524 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,524 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_01_24_2020.csv
+2020-03-24 15:07:01,524 data_extraction.py INFO Node done for 01_24_2020
+2020-03-24 15:07:01,525 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,525 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_01_24_2020.csv
+2020-03-24 15:07:01,534 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,535 data_storage.py INFO Table corona_01_24_2020 has been found in the database.
+2020-03-24 15:07:01,535 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,535 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_01_25_2020.csv
+2020-03-24 15:07:01,535 data_extraction.py INFO Node done for 01_25_2020
+2020-03-24 15:07:01,535 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,535 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_01_25_2020.csv
+2020-03-24 15:07:01,545 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,546 data_storage.py INFO Table corona_01_25_2020 has been found in the database.
+2020-03-24 15:07:01,546 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,546 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_01_26_2020.csv
+2020-03-24 15:07:01,546 data_extraction.py INFO Node done for 01_26_2020
+2020-03-24 15:07:01,546 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,546 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_01_26_2020.csv
+2020-03-24 15:07:01,555 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,556 data_storage.py INFO Table corona_01_26_2020 has been found in the database.
+2020-03-24 15:07:01,556 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,556 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_01_27_2020.csv
+2020-03-24 15:07:01,556 data_extraction.py INFO Node done for 01_27_2020
+2020-03-24 15:07:01,556 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,556 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_01_27_2020.csv
+2020-03-24 15:07:01,564 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,566 data_storage.py INFO Table corona_01_27_2020 has been found in the database.
+2020-03-24 15:07:01,566 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,566 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_01_28_2020.csv
+2020-03-24 15:07:01,566 data_extraction.py INFO Node done for 01_28_2020
+2020-03-24 15:07:01,566 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,566 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_01_28_2020.csv
+2020-03-24 15:07:01,573 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,574 data_storage.py INFO Table corona_01_28_2020 has been found in the database.
+2020-03-24 15:07:01,574 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,574 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_01_29_2020.csv
+2020-03-24 15:07:01,574 data_extraction.py INFO Node done for 01_29_2020
+2020-03-24 15:07:01,574 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,574 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_01_29_2020.csv
+2020-03-24 15:07:01,580 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,581 data_storage.py INFO Table corona_01_29_2020 has been found in the database.
+2020-03-24 15:07:01,581 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,582 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_01_30_2020.csv
+2020-03-24 15:07:01,582 data_extraction.py INFO Node done for 01_30_2020
+2020-03-24 15:07:01,582 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,582 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_01_30_2020.csv
+2020-03-24 15:07:01,588 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,589 data_storage.py INFO Table corona_01_30_2020 has been found in the database.
+2020-03-24 15:07:01,589 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,589 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_01_31_2020.csv
+2020-03-24 15:07:01,590 data_extraction.py INFO Node done for 01_31_2020
+2020-03-24 15:07:01,590 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,590 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_01_31_2020.csv
+2020-03-24 15:07:01,595 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,596 data_storage.py INFO Table corona_01_31_2020 has been found in the database.
+2020-03-24 15:07:01,597 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,597 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_01_2020.csv
+2020-03-24 15:07:01,597 data_extraction.py INFO Node done for 02_01_2020
+2020-03-24 15:07:01,597 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,597 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_01_2020.csv
+2020-03-24 15:07:01,610 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,611 data_storage.py INFO Table corona_02_01_2020 has been found in the database.
+2020-03-24 15:07:01,611 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,611 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_02_2020.csv
+2020-03-24 15:07:01,611 data_extraction.py INFO Node done for 02_02_2020
+2020-03-24 15:07:01,611 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,611 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_02_2020.csv
+2020-03-24 15:07:01,617 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,618 data_storage.py INFO Table corona_02_02_2020 has been found in the database.
+2020-03-24 15:07:01,618 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,618 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_03_2020.csv
+2020-03-24 15:07:01,618 data_extraction.py INFO Node done for 02_03_2020
+2020-03-24 15:07:01,618 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,618 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_03_2020.csv
+2020-03-24 15:07:01,624 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,625 data_storage.py INFO Table corona_02_03_2020 has been found in the database.
+2020-03-24 15:07:01,625 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,625 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_04_2020.csv
+2020-03-24 15:07:01,625 data_extraction.py INFO Node done for 02_04_2020
+2020-03-24 15:07:01,625 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,625 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_04_2020.csv
+2020-03-24 15:07:01,631 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,632 data_storage.py INFO Table corona_02_04_2020 has been found in the database.
+2020-03-24 15:07:01,632 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,632 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_05_2020.csv
+2020-03-24 15:07:01,632 data_extraction.py INFO Node done for 02_05_2020
+2020-03-24 15:07:01,632 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,632 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_05_2020.csv
+2020-03-24 15:07:01,639 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,640 data_storage.py INFO Table corona_02_05_2020 has been found in the database.
+2020-03-24 15:07:01,640 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,640 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_06_2020.csv
+2020-03-24 15:07:01,640 data_extraction.py INFO Node done for 02_06_2020
+2020-03-24 15:07:01,640 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,640 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_06_2020.csv
+2020-03-24 15:07:01,646 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,647 data_storage.py INFO Table corona_02_06_2020 has been found in the database.
+2020-03-24 15:07:01,647 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,647 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_07_2020.csv
+2020-03-24 15:07:01,647 data_extraction.py INFO Node done for 02_07_2020
+2020-03-24 15:07:01,647 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,647 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_07_2020.csv
+2020-03-24 15:07:01,654 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,655 data_storage.py INFO Table corona_02_07_2020 has been found in the database.
+2020-03-24 15:07:01,655 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,655 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_08_2020.csv
+2020-03-24 15:07:01,655 data_extraction.py INFO Node done for 02_08_2020
+2020-03-24 15:07:01,655 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,656 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_08_2020.csv
+2020-03-24 15:07:01,661 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,662 data_storage.py INFO Table corona_02_08_2020 has been found in the database.
+2020-03-24 15:07:01,662 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,662 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_09_2020.csv
+2020-03-24 15:07:01,662 data_extraction.py INFO Node done for 02_09_2020
+2020-03-24 15:07:01,662 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,662 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_09_2020.csv
+2020-03-24 15:07:01,668 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,670 data_storage.py INFO Table corona_02_09_2020 has been found in the database.
+2020-03-24 15:07:01,670 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,670 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_10_2020.csv
+2020-03-24 15:07:01,670 data_extraction.py INFO Node done for 02_10_2020
+2020-03-24 15:07:01,670 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,670 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_10_2020.csv
+2020-03-24 15:07:01,677 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,677 data_storage.py INFO Table corona_02_10_2020 has been found in the database.
+2020-03-24 15:07:01,677 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,677 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_11_2020.csv
+2020-03-24 15:07:01,678 data_extraction.py INFO Node done for 02_11_2020
+2020-03-24 15:07:01,678 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,678 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_11_2020.csv
+2020-03-24 15:07:01,686 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,687 data_storage.py INFO Table corona_02_11_2020 has been found in the database.
+2020-03-24 15:07:01,687 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,687 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_12_2020.csv
+2020-03-24 15:07:01,687 data_extraction.py INFO Node done for 02_12_2020
+2020-03-24 15:07:01,687 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,687 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_12_2020.csv
+2020-03-24 15:07:01,692 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,693 data_storage.py INFO Table corona_02_12_2020 has been found in the database.
+2020-03-24 15:07:01,693 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,693 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_13_2020.csv
+2020-03-24 15:07:01,693 data_extraction.py INFO Node done for 02_13_2020
+2020-03-24 15:07:01,693 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,694 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_13_2020.csv
+2020-03-24 15:07:01,699 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,700 data_storage.py INFO Table corona_02_13_2020 has been found in the database.
+2020-03-24 15:07:01,701 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,701 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_14_2020.csv
+2020-03-24 15:07:01,701 data_extraction.py INFO Node done for 02_14_2020
+2020-03-24 15:07:01,701 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,701 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_14_2020.csv
+2020-03-24 15:07:01,708 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,709 data_storage.py INFO Table corona_02_14_2020 has been found in the database.
+2020-03-24 15:07:01,709 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,709 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_15_2020.csv
+2020-03-24 15:07:01,709 data_extraction.py INFO Node done for 02_15_2020
+2020-03-24 15:07:01,709 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,709 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_15_2020.csv
+2020-03-24 15:07:01,714 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,716 data_storage.py INFO Table corona_02_15_2020 has been found in the database.
+2020-03-24 15:07:01,716 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,716 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_16_2020.csv
+2020-03-24 15:07:01,716 data_extraction.py INFO Node done for 02_16_2020
+2020-03-24 15:07:01,716 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,716 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_16_2020.csv
+2020-03-24 15:07:01,723 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,725 data_storage.py INFO Table corona_02_16_2020 has been found in the database.
+2020-03-24 15:07:01,725 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,725 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_17_2020.csv
+2020-03-24 15:07:01,725 data_extraction.py INFO Node done for 02_17_2020
+2020-03-24 15:07:01,725 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,725 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_17_2020.csv
+2020-03-24 15:07:01,730 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,732 data_storage.py INFO Table corona_02_17_2020 has been found in the database.
+2020-03-24 15:07:01,732 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,732 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_18_2020.csv
+2020-03-24 15:07:01,732 data_extraction.py INFO Node done for 02_18_2020
+2020-03-24 15:07:01,732 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,732 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_18_2020.csv
+2020-03-24 15:07:01,738 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,739 data_storage.py INFO Table corona_02_18_2020 has been found in the database.
+2020-03-24 15:07:01,739 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,739 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_19_2020.csv
+2020-03-24 15:07:01,739 data_extraction.py INFO Node done for 02_19_2020
+2020-03-24 15:07:01,739 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,739 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_19_2020.csv
+2020-03-24 15:07:01,746 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,747 data_storage.py INFO Table corona_02_19_2020 has been found in the database.
+2020-03-24 15:07:01,747 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,747 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_20_2020.csv
+2020-03-24 15:07:01,747 data_extraction.py INFO Node done for 02_20_2020
+2020-03-24 15:07:01,747 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,747 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_20_2020.csv
+2020-03-24 15:07:01,752 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,753 data_storage.py INFO Table corona_02_20_2020 has been found in the database.
+2020-03-24 15:07:01,753 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,753 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_21_2020.csv
+2020-03-24 15:07:01,753 data_extraction.py INFO Node done for 02_21_2020
+2020-03-24 15:07:01,753 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,753 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_21_2020.csv
+2020-03-24 15:07:01,760 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,761 data_storage.py INFO Table corona_02_21_2020 has been found in the database.
+2020-03-24 15:07:01,761 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,761 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_22_2020.csv
+2020-03-24 15:07:01,761 data_extraction.py INFO Node done for 02_22_2020
+2020-03-24 15:07:01,761 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,761 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_22_2020.csv
+2020-03-24 15:07:01,770 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,771 data_storage.py INFO Table corona_02_22_2020 has been found in the database.
+2020-03-24 15:07:01,771 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,771 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_23_2020.csv
+2020-03-24 15:07:01,771 data_extraction.py INFO Node done for 02_23_2020
+2020-03-24 15:07:01,771 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,771 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_23_2020.csv
+2020-03-24 15:07:01,778 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,780 data_storage.py INFO Table corona_02_23_2020 has been found in the database.
+2020-03-24 15:07:01,780 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,780 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_24_2020.csv
+2020-03-24 15:07:01,780 data_extraction.py INFO Node done for 02_24_2020
+2020-03-24 15:07:01,780 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,780 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_24_2020.csv
+2020-03-24 15:07:01,787 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,788 data_storage.py INFO Table corona_02_24_2020 has been found in the database.
+2020-03-24 15:07:01,788 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,788 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_25_2020.csv
+2020-03-24 15:07:01,788 data_extraction.py INFO Node done for 02_25_2020
+2020-03-24 15:07:01,788 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,788 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_25_2020.csv
+2020-03-24 15:07:01,794 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,795 data_storage.py INFO Table corona_02_25_2020 has been found in the database.
+2020-03-24 15:07:01,795 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,795 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_26_2020.csv
+2020-03-24 15:07:01,795 data_extraction.py INFO Node done for 02_26_2020
+2020-03-24 15:07:01,795 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,795 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_26_2020.csv
+2020-03-24 15:07:01,803 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,804 data_storage.py INFO Table corona_02_26_2020 has been found in the database.
+2020-03-24 15:07:01,804 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,804 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_27_2020.csv
+2020-03-24 15:07:01,804 data_extraction.py INFO Node done for 02_27_2020
+2020-03-24 15:07:01,804 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,804 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_27_2020.csv
+2020-03-24 15:07:01,810 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,810 data_storage.py INFO Table corona_02_27_2020 has been found in the database.
+2020-03-24 15:07:01,811 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,811 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_28_2020.csv
+2020-03-24 15:07:01,811 data_extraction.py INFO Node done for 02_28_2020
+2020-03-24 15:07:01,811 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,811 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_28_2020.csv
+2020-03-24 15:07:01,817 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,818 data_storage.py INFO Table corona_02_28_2020 has been found in the database.
+2020-03-24 15:07:01,818 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,818 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_29_2020.csv
+2020-03-24 15:07:01,818 data_extraction.py INFO Node done for 02_29_2020
+2020-03-24 15:07:01,818 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,818 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_02_29_2020.csv
+2020-03-24 15:07:01,825 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,826 data_storage.py INFO Table corona_02_29_2020 has been found in the database.
+2020-03-24 15:07:01,826 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,826 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_01_2020.csv
+2020-03-24 15:07:01,826 data_extraction.py INFO Node done for 03_01_2020
+2020-03-24 15:07:01,826 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,826 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_01_2020.csv
+2020-03-24 15:07:01,831 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,832 data_storage.py INFO Table corona_03_01_2020 has been found in the database.
+2020-03-24 15:07:01,832 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,832 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_02_2020.csv
+2020-03-24 15:07:01,832 data_extraction.py INFO Node done for 03_02_2020
+2020-03-24 15:07:01,833 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,833 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_02_2020.csv
+2020-03-24 15:07:01,839 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,840 data_storage.py INFO Table corona_03_02_2020 has been found in the database.
+2020-03-24 15:07:01,840 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,840 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_03_2020.csv
+2020-03-24 15:07:01,840 data_extraction.py INFO Node done for 03_03_2020
+2020-03-24 15:07:01,840 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,840 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_03_2020.csv
+2020-03-24 15:07:01,848 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,849 data_storage.py INFO Table corona_03_03_2020 has been found in the database.
+2020-03-24 15:07:01,849 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,849 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_04_2020.csv
+2020-03-24 15:07:01,849 data_extraction.py INFO Node done for 03_04_2020
+2020-03-24 15:07:01,849 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,849 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_04_2020.csv
+2020-03-24 15:07:01,857 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,858 data_storage.py INFO Table corona_03_04_2020 has been found in the database.
+2020-03-24 15:07:01,858 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,858 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_05_2020.csv
+2020-03-24 15:07:01,858 data_extraction.py INFO Node done for 03_05_2020
+2020-03-24 15:07:01,858 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,858 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_05_2020.csv
+2020-03-24 15:07:01,864 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,865 data_storage.py INFO Table corona_03_05_2020 has been found in the database.
+2020-03-24 15:07:01,865 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,865 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_06_2020.csv
+2020-03-24 15:07:01,866 data_extraction.py INFO Node done for 03_06_2020
+2020-03-24 15:07:01,866 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,866 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_06_2020.csv
+2020-03-24 15:07:01,872 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,873 data_storage.py INFO Table corona_03_06_2020 has been found in the database.
+2020-03-24 15:07:01,873 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,873 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_07_2020.csv
+2020-03-24 15:07:01,873 data_extraction.py INFO Node done for 03_07_2020
+2020-03-24 15:07:01,874 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,874 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_07_2020.csv
+2020-03-24 15:07:01,880 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,884 data_storage.py INFO Table corona_03_07_2020 has been found in the database.
+2020-03-24 15:07:01,885 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,886 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_08_2020.csv
+2020-03-24 15:07:01,887 data_extraction.py INFO Node done for 03_08_2020
+2020-03-24 15:07:01,887 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,887 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_08_2020.csv
+2020-03-24 15:07:01,895 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,896 data_storage.py INFO Table corona_03_08_2020 has been found in the database.
+2020-03-24 15:07:01,896 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,896 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_09_2020.csv
+2020-03-24 15:07:01,896 data_extraction.py INFO Node done for 03_09_2020
+2020-03-24 15:07:01,896 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,896 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_09_2020.csv
+2020-03-24 15:07:01,903 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,904 data_storage.py INFO Table corona_03_09_2020 has been found in the database.
+2020-03-24 15:07:01,904 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,904 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_10_2020.csv
+2020-03-24 15:07:01,904 data_extraction.py INFO Node done for 03_10_2020
+2020-03-24 15:07:01,904 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,904 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_10_2020.csv
+2020-03-24 15:07:01,911 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,912 data_storage.py INFO Table corona_03_10_2020 has been found in the database.
+2020-03-24 15:07:01,912 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,912 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_11_2020.csv
+2020-03-24 15:07:01,912 data_extraction.py INFO Node done for 03_11_2020
+2020-03-24 15:07:01,912 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,912 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_11_2020.csv
+2020-03-24 15:07:01,920 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,922 data_storage.py INFO Table corona_03_11_2020 has been found in the database.
+2020-03-24 15:07:01,922 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,922 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_12_2020.csv
+2020-03-24 15:07:01,922 data_extraction.py INFO Node done for 03_12_2020
+2020-03-24 15:07:01,922 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,922 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_12_2020.csv
+2020-03-24 15:07:01,933 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,934 data_storage.py INFO Table corona_03_12_2020 has been found in the database.
+2020-03-24 15:07:01,934 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,934 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_13_2020.csv
+2020-03-24 15:07:01,934 data_extraction.py INFO Node done for 03_13_2020
+2020-03-24 15:07:01,934 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,934 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_13_2020.csv
+2020-03-24 15:07:01,941 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,942 data_storage.py INFO Table corona_03_13_2020 has been found in the database.
+2020-03-24 15:07:01,942 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,942 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_14_2020.csv
+2020-03-24 15:07:01,942 data_extraction.py INFO Node done for 03_14_2020
+2020-03-24 15:07:01,942 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,942 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_14_2020.csv
+2020-03-24 15:07:01,949 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,950 data_storage.py INFO Table corona_03_14_2020 has been found in the database.
+2020-03-24 15:07:01,950 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,950 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_15_2020.csv
+2020-03-24 15:07:01,950 data_extraction.py INFO Node done for 03_15_2020
+2020-03-24 15:07:01,950 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,950 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_15_2020.csv
+2020-03-24 15:07:01,957 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,958 data_storage.py INFO Table corona_03_15_2020 has been found in the database.
+2020-03-24 15:07:01,959 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,959 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_16_2020.csv
+2020-03-24 15:07:01,959 data_extraction.py INFO Node done for 03_16_2020
+2020-03-24 15:07:01,959 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,959 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_16_2020.csv
+2020-03-24 15:07:01,970 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,971 data_storage.py INFO Table corona_03_16_2020 has been found in the database.
+2020-03-24 15:07:01,972 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,972 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_17_2020.csv
+2020-03-24 15:07:01,972 data_extraction.py INFO Node done for 03_17_2020
+2020-03-24 15:07:01,972 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,972 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_17_2020.csv
+2020-03-24 15:07:01,979 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,980 data_storage.py INFO Table corona_03_17_2020 has been found in the database.
+2020-03-24 15:07:01,980 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,980 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_18_2020.csv
+2020-03-24 15:07:01,980 data_extraction.py INFO Node done for 03_18_2020
+2020-03-24 15:07:01,980 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,980 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_18_2020.csv
+2020-03-24 15:07:01,986 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,988 data_storage.py INFO Table corona_03_18_2020 has been found in the database.
+2020-03-24 15:07:01,988 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,988 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_19_2020.csv
+2020-03-24 15:07:01,988 data_extraction.py INFO Node done for 03_19_2020
+2020-03-24 15:07:01,988 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,988 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_19_2020.csv
+2020-03-24 15:07:01,997 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:01,998 data_storage.py INFO Table corona_03_19_2020 has been found in the database.
+2020-03-24 15:07:01,999 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:01,999 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_20_2020.csv
+2020-03-24 15:07:01,999 data_extraction.py INFO Node done for 03_20_2020
+2020-03-24 15:07:01,999 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:01,999 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_20_2020.csv
+2020-03-24 15:07:02,10 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:02,11 data_storage.py INFO Table corona_03_20_2020 has been found in the database.
+2020-03-24 15:07:02,11 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:02,11 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_21_2020.csv
+2020-03-24 15:07:02,11 data_extraction.py INFO Node done for 03_21_2020
+2020-03-24 15:07:02,11 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:02,11 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_21_2020.csv
+2020-03-24 15:07:02,19 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:02,20 data_storage.py INFO Table corona_03_21_2020 has been found in the database.
+2020-03-24 15:07:02,20 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:02,20 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_22_2020.csv
+2020-03-24 15:07:02,20 data_extraction.py INFO Node done for 03_22_2020
+2020-03-24 15:07:02,20 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:02,20 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_22_2020.csv
+2020-03-24 15:07:02,27 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:02,28 data_storage.py INFO Table corona_03_22_2020 has been found in the database.
+2020-03-24 15:07:02,28 data_extraction.py INFO Checking if extraction node is up-to-date.
+2020-03-24 15:07:02,28 data_extraction.py INFO Verifying the existence of C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_23_2020.csv
+2020-03-24 15:07:02,28 data_extraction.py INFO Node done for 03_23_2020
+2020-03-24 15:07:02,29 data_transform.py INFO Updating transform node.
+2020-03-24 15:07:02,29 data_transform.py INFO Reading file from C:/Users/andreaguiar/Desktop/usr/dev/2020/example_pipeline/data/intermediate/corona_03_23_2020.csv
+2020-03-24 15:07:02,58 data_storage.py INFO Checking if storage node is up-to-date.
+2020-03-24 15:07:02,59 data_storage.py INFO Table corona_03_23_2020 has been found in the database.
