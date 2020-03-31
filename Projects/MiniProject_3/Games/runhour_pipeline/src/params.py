@@ -14,7 +14,7 @@ class Params:
 	host = 'localhost'
 	database = 'games'
 
-	url_string = f'postgresql+psycopg2://{user}:{pwd}@{host}/{database}'
+	url_string = f'postgresql://{user}:{pwd}@{host}/{database}'
 
 	# variables that will be populated inside the nodes
 
