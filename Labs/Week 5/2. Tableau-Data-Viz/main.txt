@@ -1,0 +1,5 @@
+NFL Team:
+https://public.tableau.com/profile/luis.gustavo.zaparolli#!/vizhome/Tableau-Data-Viz/Dashboard1
+
+World Dashboard Viz:
+https://public.tableau.com/profile/luis.gustavo.zaparolli#!/vizhome/WorldDashboard_15858736231450/Dashboard1
