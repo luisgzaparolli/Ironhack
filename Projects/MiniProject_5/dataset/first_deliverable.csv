@@ -1,4 +1,4 @@
-carat,cut,color,clarity,depth,table,x,y,z,price_predict
+carat,cut,color,clarity,depth,table,x,y,z,price_predicted
 0.91,Very Good,H,SI2,63.4,57.0,6.1,6.18,3.89,4399.951210749605
 0.38,Good,F,VS2,60.3,61.0,4.68,4.71,2.83,688.9792030860881
 0.52,Ideal,H,VS2,61.8,56.0,5.19,5.16,3.2,1762.1831704546457
